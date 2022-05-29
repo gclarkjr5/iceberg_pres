@@ -1,4 +1,4 @@
-# Why not use a database?
+# Why not just use a database?
 
 - Enter Iceberg, but at this point why not just use a database?
     - databases are closed proprietary systems
