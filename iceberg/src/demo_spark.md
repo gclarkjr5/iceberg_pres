@@ -1,13 +1,12 @@
 # Demo w/ Spark
 
-- Demo
-    - show some examples using Spark
-    - Spark is currently the most feature rich
-    - example of architecture setup
-    - agenda:
-        - show setup (runtime jar, catalog definition, thriftserver for DBeaver)
-        - create a table with data
-        - perform DDL and view metadata changes
-        - show example of rolling back to a snapshot
-        - show merge statement for bronze to silver
-        - drop table;
+- spark is most feature rich engine
+- quick review of demo setup
+    - pulling in the runtime jar
+    - defining the catalog and catalog type
+    - using thriftserver for better data view (DBeaver)
+- create a table with data
+- perform DDL and view metadata changes
+- show example of rolling back to a snapshot
+- show merge example
+- demo some DML
