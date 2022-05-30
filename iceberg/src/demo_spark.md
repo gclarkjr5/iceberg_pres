@@ -6,7 +6,7 @@
     - defining the catalog and catalog type
     - using thriftserver for better data view (DBeaver)
 - create a table with data
-- perform DDL and view metadata changes
+- perform DML and view metadata changes
 - show example of rolling back to a snapshot
 - show merge example
-- demo some DML
+- demo some DDL

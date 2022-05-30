@@ -1,3 +1,5 @@
 book
 support
-demo
+metastore_db
+derby.log
+warehouse
